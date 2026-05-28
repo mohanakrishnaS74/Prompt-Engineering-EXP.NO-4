@@ -43,3 +43,4 @@ Everyday Functioning Prompts:
   https://docs.google.com/document/d/1JQ71DxFa-OrragKlFgOvRIjFCjM05Gqb/edit?usp=sharing&ouid=108564216582215558863&rtpof=true&sd=true
 
   RESULT:
+  hus, prompts for Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt were successfully created for different scenarios and use cases. The experiment helped in understanding how different prompt patterns can be used to obtain comparative information, user experiences, and practical applications in real-world situations
